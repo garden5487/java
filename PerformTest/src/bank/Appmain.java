@@ -49,12 +49,18 @@ public class Appmain {
 	   
 	   
 	   System.out.println("결과: 계좌가 생성되었습니다 " );
+	   
    }
    private static void accountList() {
-	   
+	   System.out.println("---------- 계좌목록 ---------------");
+	   String a1 = "110-11-1011 김유신 10000";
+	   String a2 = "110-11-1002 김춘추 20000";
+	   System.out.println(a1);
+	   System.out.println(a2);
    }
    private static void deposit() {
-	   
+	   System.out.println("----------- 예금 ---------------");
+	   System.out.println();
    }
    private static void withdraw() {
 	   

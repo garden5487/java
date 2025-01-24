@@ -60,7 +60,7 @@ public class Appmain {
    }
    private static void deposit() {
 	   System.out.println("----------- 예금 ---------------");
-	   System.out.println();
+	 
    }
    private static void withdraw() {
 	   
